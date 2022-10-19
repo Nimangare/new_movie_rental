@@ -1,0 +1,4 @@
+{
+  "mongodb": "mongodb://localhost/Movies_Rental_test",
+  "jwtPrivateToken": "movie_rental_jwtPrivateKey"
+}
